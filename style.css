@@ -4,10 +4,10 @@ body{
    justify-content: center; 
    align-items: center;
    height: 100vh;
-   background-color: hsl(0, 0%, 15%);
+   background-color: hsl(0, 72%, 46%);
 }
 #calculator{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial;
     background-color: hsl(0, 0%, 15%);
     border-radius: 15px;
     max-width: 500px;
